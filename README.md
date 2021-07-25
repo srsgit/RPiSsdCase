@@ -1,10 +1,10 @@
-# Raspberry Pi & SSD Brackets
+# Brackets for Raspberry Pi & SSD
 
-Verical mounting brackets for an SSD in a case and a Raspberry Pi.
+Mounting brackets for a vertical SSD in a case and a Raspberry Pi.
 
 * SSD case sits vertically in the Bottom part.
 
-* Top part is the same, but without the bottom.
+* Top part is the same, but is open.
 
 * Both parts have mounts for a Raspberry Pi
 
