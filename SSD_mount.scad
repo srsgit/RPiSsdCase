@@ -54,7 +54,7 @@ module body() {
     translate( [0, -base_depth/2, base_height/2]) 
       cube([base_width, base_depth, base_height], true);
     // inner hole for end of SSD case
-#    translate( [0, -base_depth/2, inner_translate])
+    translate( [0, -base_depth/2, inner_translate])
       cube([ssd_width, ssd_thickness, base_height + 1.0], true);
   } 
 }
